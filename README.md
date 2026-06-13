@@ -1,4 +1,6 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png.png" alt="Banner" />
+</p>
 
 Currently focused on software development and software engineering through the CodePRO program at Penguin Academy.
 
