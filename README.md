@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nicolás Mendoza 👋
 
-<!--
-**nicomendoza94/nicomendoza94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from Paraguay
 
-Here are some ideas to get you started:
+Currently focused on software development and software engineering through the CodePRO program at Penguin Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+* Python
+* Flask
+* SQL
+* PostgreSQL
+* JavaScript
+* Node.js
+* REST APIs
+* Git
+
+## Featured Projects
+
+### Microservices Architecture
+
+Development of interconnected services using Python and REST APIs.
+
+### Authentication System
+
+User authentication and authorization system built with JavaScript and backend technologies.
+
+### CRUD Application
+
+Full CRUD application implementing MVC architecture and database persistence.
+
+### Minimax Algorithm
+
+Implementation of game decision-making using the Minimax algorithm.
+
+## Currently Learning
+
+* Backend Architecture
+* Software Design Principles
+* Database Design
+* API Development
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/nicolasmendoza-dev
+
