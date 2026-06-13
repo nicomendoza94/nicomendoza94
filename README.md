@@ -4,9 +4,9 @@
 
 ## 👋 About Me
 
-I'm Nicolás Mendoza, a Software Developer from Paraguay 🇵🇾.
+Software Developer focused on backend systems, APIs, databases and software engineering.
 
-Passionate about software engineering, backend development, problem solving, and building software that creates real-world impact.
+Passionate about problem solving and building software that creates real-world impact.
 
 Currently developing my skills through the CodePRO program at Penguin Academy, where I have participated as:
 
