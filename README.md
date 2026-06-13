@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png.png" alt="Banner" />
 </p>
+
 ## 👋 About Me
 
 I'm Nicolás Mendoza, a Software Developer from Paraguay 🇵🇾.
