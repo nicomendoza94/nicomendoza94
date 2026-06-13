@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
+![Banner](banner.png)
 
 Currently focused on software development and software engineering through the CodePRO program at Penguin Academy.
 
