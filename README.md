@@ -1,6 +1,6 @@
-# Hi, I'm Nicolás Mendoza 👋
-
-Software Developer from Paraguay
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
 Currently focused on software development and software engineering through the CodePRO program at Penguin Academy.
 
